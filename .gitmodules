@@ -1,0 +1,6 @@
+[submodule "demo"]
+	path = demo
+	url = https://github.com/escapedcanadian/mfd-demo
+[submodule "android"]
+	path = android
+	url = https://github.com/escapedcanadian/mfd-android
